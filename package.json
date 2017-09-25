@@ -3,7 +3,7 @@
   "version": "1.0.0",
   "description": "Use of a gold maps to locate, to obtain location information",
   "cordova": {
-    "id": "com.zhaoying.GaoDeLocation",
+    "id": "cordova.plugin.GaoDeLocation.GaoDeLocation",
     "platforms": [
       "android",
       "ios"
